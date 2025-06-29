@@ -37,7 +37,7 @@ Tu veux lancer un projet Django ? React ? Ou un site HTML simple ? En 3 clics, C
 ## 📦 Comment l’utiliser (version développeur)
 
 ```bash
-git clone https://github.com/TonNomGithub/codekit.git
+git clone https://github.com/ThePerformer0/codekit.git
 cd codekit
 ```
 
